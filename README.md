@@ -26,5 +26,5 @@ g++ filename.cpp -o filename
 ```
 
 ## Contact
-📧 Email: your@email.com
+📧 Email: soorjyakant123@email.com
 📍 Location: Bhubaneswar, OD
