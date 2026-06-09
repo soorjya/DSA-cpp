@@ -1,4 +1,4 @@
-# 🧠 DSA in C++ — Soorjya
+# 🧠 DSA in C++ 
 
 ## About
 Daily DSA practice in C++ for SDE-1 interviews.
